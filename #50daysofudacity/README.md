@@ -14,6 +14,8 @@
 [D21]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D21%20ML.png
 [D22]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D22%20ML.png
 [D23]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D23%20ML.png
+[D24]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D24%20ML.png
+
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -134,3 +136,13 @@ I would like to encourage @Juan David R. @Israel Tiñini Alvarez @Sabyh @Andreas
 I would like to encourage @Juan David R. @Israel Tiñini Alvarez @Sabyh @Andreas Rhode @Gabriel @Pree @Anderson Fardin Vinco @Pasupuleti Chandana @JohnBucMoore @Geetha @Aishwarya Mahapatra @Mokit Hossain @Samuela Anastasi @Fernando T @Aravind G @Íñigo Lejarza @LauraT @Rodrigo J Hernandez @Cesar S.@JohnBucMoore @Juan Pineda
 
 ![Advance D23][D23]
+
+## D24 Thursday August 6, 2020
+  1. Today I continued the lesson 6 Managed Services form Machine Learning (6.11-6.15)
+  2. Today I continued the lesson 7 Data Prediction (7.9-7.14)
+  
+Today is the day of the independence of my country Bolivia, I wish to congratulate all Bolivians who are here, Happy day!
+
+I would like to encourage @Juan David R. @Israel Tiñini Alvarez @Sabyh @Andreas Rhode @Gabby @Pree @Anderson Furtado @Pasupuleti Chandana @JohnBucMoore @Geetha @Aishwarya Mahapatra @Mokit Hossain @Samuela Anastasi @Fernando T @Aravind G @Íñigo Lejarza @LauraT @Rodrigo J Hernandez @Cesar S.@JohnBucMoore @Juan Pineda @Edir Garcia @Juan Carlos 
+
+![Advance D24][D24]
