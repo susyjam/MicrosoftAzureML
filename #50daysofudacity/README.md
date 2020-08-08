@@ -15,6 +15,8 @@
 [D22]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D22%20ML.png
 [D23]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D23%20ML.png
 [D24]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D24%20ML.png
+[D25]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D25%20ML.png
+[D25-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/nutanixscholarshipcertificateJSMC.jpg
 
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
@@ -146,3 +148,14 @@ Today is the day of the independence of my country Bolivia, I wish to congratula
 I would like to encourage @Juan David R. @Israel Tiñini Alvarez @Sabyh @Andreas Rhode @Gabby @Pree @Anderson Furtado @Pasupuleti Chandana @JohnBucMoore @Geetha @Aishwarya Mahapatra @Mokit Hossain @Samuela Anastasi @Fernando T @Aravind G @Íñigo Lejarza @LauraT @Rodrigo J Hernandez @Cesar S.@JohnBucMoore @Juan Pineda @Edir Garcia @Juan Carlos 
 
 ![Advance D24][D24]
+
+## D25 Friday August 7, 2020
+  1. Today I continued the lesson 6 Managed Services form Machine Learning (6.15-6.21) 
+  2. Today I finished the course! yeiii! It was an exciting path, although to remember concepts and details, I will study more the course.
+Link: https://github.com/susyjam/NutanixHybridCloud
+
+I would like to encourage @Juan David R. @Israel Tiñini Alvarez @Sabyh @Andreas Rhode @Gabby @Pree @Anderson Furtado  @Pasupuleti Chandana @JohnBucMoore @Geetha @Aishwarya Mahapatra @Mokit Hossain @Samuela Anastasi @Fernando T @Aravind G @Íñigo Lejarza @LauraT @Rodrigo J Hernandez @Cesar S.@JohnBucMoore @Juan Pineda @Edir Garcia @Juan Carlos
+
+![Advance D25][D25]
+Certificate of completion Hybrid Cloud Scholarship Foundation Course Nanodegree Program
+![Certificate JSMC][D25-1]
