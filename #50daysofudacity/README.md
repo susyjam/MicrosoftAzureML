@@ -151,7 +151,7 @@ I would like to encourage @Juan David R. @Israel Tiñini Alvarez @Sabyh @Andreas
 
 ## D25 Friday August 7, 2020
   1. Today I continued the lesson 6 Managed Services form Machine Learning (6.15-6.21) 
-  2. Today I finished the course! yeiii! It was an exciting path, although to remember concepts and details, I will study more the course.
+  2. Today I finished the  Hybrid Cloud Scholarship Foundation Course Nanodegree Program! yeiii! It was an exciting path, although to remember concepts and details, I will study more the course
 Link: https://github.com/susyjam/NutanixHybridCloud
 
 I would like to encourage @Juan David R. @Israel Tiñini Alvarez @Sabyh @Andreas Rhode @Gabby @Pree @Anderson Furtado  @Pasupuleti Chandana @JohnBucMoore @Geetha @Aishwarya Mahapatra @Mokit Hossain @Samuela Anastasi @Fernando T @Aravind G @Íñigo Lejarza @LauraT @Rodrigo J Hernandez @Cesar S.@JohnBucMoore @Juan Pineda @Edir Garcia @Juan Carlos
