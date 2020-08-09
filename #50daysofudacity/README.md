@@ -17,7 +17,8 @@
 [D24]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D24%20ML.png
 [D25]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D25%20ML.png
 [D25-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/nutanixscholarshipcertificateJSMC.jpg
-
+[D26]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D26%20ML.png
+[D26-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D26%20meeting%20Spaic%20ML.png
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -159,3 +160,13 @@ I would like to encourage @Juan David R. @Israel Tiñini Alvarez @Sabyh @Andreas
 ![Advance D25][D25]
 Certificate of completion Hybrid Cloud Scholarship Foundation Course Nanodegree Program
 ![Certificate JSMC][D25-1]
+
+## D26 Saturday August 8, 2020
+  1. Today I finished the lesson 6 Managed Services form Machine Learning  Yeiiii:party_parrot:
+  2. Today we had a meeting with the #sg_spaic group where @Shudipto Trafder shared interesting features of Google Colab. Thank you all for making my Saturday very interesting @Mariia @Anderson Furtado @ayse.nur @Bhadresh Savani @Clarence Lam @Daniel Burrueco @erin song @Khushal Goyal @LauraT @Mohamed Homossani @Muhammad Haris @Hanane Ouhammouch @Remi @Petar Petrovski @Sadmi @Snehal Lokesh @Verrah Otiende @Wee Nie Tham @Shudipto Trafder @Aarthi Alagammai @Sabyh @annanya24 @Annsana Baby @Anel Nurkayeva @Alex @Jefin Paul @Thant Thazin Eain @Tharani Vadde
+  
+I would like to encourage @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha 
+
+![Advance D26][D26]
+Meeting SPAIC 
+![Meeting Spaic D26-1][D26-1]
