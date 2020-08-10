@@ -19,6 +19,9 @@
 [D25-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/nutanixscholarshipcertificateJSMC.jpg
 [D26]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D26%20ML.png
 [D26-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D26%20meeting%20Spaic%20ML.png
+[D27]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D27%20ML.png
+[D27-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D27%20Meeting%20Spanish%20ML.jpg
+[D27-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D27-1%20Meeting%20Spanish%20ML.png
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -170,3 +173,15 @@ I would like to encourage @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina
 ![Advance D26][D26]
 Meeting SPAIC 
 ![Meeting Spaic D26-1][D26-1]
+
+## D27 Sunday August 9, 2020
+  1. Today I started with Lesson 7 Responsible AI (7.1-7.5)
+  2. Today I had a meeting with the #sg_spanish group, a great contribution of ideas thanks guys. @Íñigo Lejarza @Carla Florida @ketcx @Adriana Cárdenas @Carlos Castro @Cesar S.  @Nydia Medina @Rodrigo J Hernandez @Gen Parra @Rodrigo Piña Lépiz
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor 
+
+![Advance D27][D27]
+Meeting Spanish 
+![Meeting Spanish D27-1][D27-1]
+![Meeting Spanish D27-2][D27-2]
+
