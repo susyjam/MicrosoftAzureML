@@ -36,6 +36,8 @@
 [D27]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D27%20ML.png
 [D27-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D27%20Meeting%20Spanish%20ML.jpg
 [D27-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D27-1%20Meeting%20Spanish%20ML.png
+[D28]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D28%20ML.png
+[D28-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/collage.png
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -297,3 +299,12 @@ Meeting Spanish
 ![Meeting Spanish D27-1][D27-1]
 ![Meeting Spanish D27-2][D27-2]
 
+## D28 Monday, August 10, 2020
+  1. Today I finished lesson 7  Responsible AI Yeiii!
+  2. Today start the challenge of #visual_challenge_gallery, I loved the image that @Mayur Kanojiya edited with the challenge on workspaces that began at the beginning of the course, you are awesome @Mayur Kanojiya (https://microsoftmlchallenge.slack.com/archives/C018J39D80M/p1597071666273800)
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor  @Cesar S. @Mariia
+
+![Advance D28][D28]
+#visual_challenge_gallery #Workspaces
+![Beautiful Image ][D28-1]
