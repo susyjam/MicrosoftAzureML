@@ -308,3 +308,9 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
 ![Advance D28][D28]
 #visual_challenge_gallery #Workspaces
 ![Beautiful Image ][D28-1]
+
+## D29 Tuesday, August 11, 2020
+  1. Today I finished lesson 8 and with that I finished the course. Yeiii! 
+  2. I still don't know what to do for the challenge #visual_challenge_gallery, I'm still thinking about it
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor @Cesar S. @Mariia
