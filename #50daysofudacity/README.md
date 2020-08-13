@@ -38,6 +38,7 @@
 [D27-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D27-1%20Meeting%20Spanish%20ML.png
 [D28]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D28%20ML.png
 [D28-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/collage.png
+[D29]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D29%20ML.png
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -314,3 +315,14 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
   2. I still don't know what to do for the challenge #visual_challenge_gallery, I'm still thinking about it
   
 I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor @Cesar S. @Mariia
+
+![Advance D29][D29]
+
+## D30 Wednesday, August 12, 2020
+  1. Today I organized my notes to see in which lesson I need to study more. I will start to review the lessons.
+  2. Today I started reviewing Lesson 2: Journey to the modern Hybrid Cloud (Nutanix)
+  3. Today I was looking for information about artificial intelligence in video games, it is a really fascinating world. (If you have any page or book about it, I would appreciate it if you share it with me)
+  4. Today I would like to follow my fiend Edgardo's initiative, sharing music that I like with all of you, I hope you like spending about 5 minutes listening to some cheesy songs and in Spanish, I will try to vary. https://www.youtube.com/watch?v=mloIJgaia44
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor @Cesar S. @Mariia @Andres Dorado @Juan David R. @Mokit Hossain
+
