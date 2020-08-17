@@ -39,6 +39,8 @@
 [D28]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D28%20ML.png
 [D28-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/collage.png
 [D29]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D29%20ML.png
+[D33]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D33%20ML%20my%20bingo.png
+[D34]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D34%20Meeting%20ML%20Spanish.png
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -325,4 +327,36 @@ I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Ny
   4. Today I would like to follow my fiend Edgardo's initiative, sharing music that I like with all of you, I hope you like spending about 5 minutes listening to some cheesy songs and in Spanish, I will try to vary. https://www.youtube.com/watch?v=mloIJgaia44
   
 I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor @Cesar S. @Mariia @Andres Dorado @Juan David R. @Mokit Hossain
+
+## D31 Thursday, August 13, 2020
+  1. Today I Started to review Lesson 1: Introduction to Machine Learning with azure 
+  2. Today I continued to review Lesson 2: Journey to the Modern Hybrid Cloud (Nutanix)
+  3. Today I would like to share this music video with you https://www.youtube.com/watch?v=1lyu1KKwC74
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor @Cesar S. @Mariia @Andres Dorado @Juan David R. @Mokit Hossain
+
+## D32 Friday , August 14, 2020
+  1. Today I continued to review Lesson 1: Introduction to Machine Learning with azure 
+  2. Today I would like to share this music video with you https://www.youtube.com/watch?v=1DHjAME975Y
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor @Cesar S. @Mariia @Andres Dorado @Juan David R. @Mokit Hossain
+
+## D33 Saturday, August 15, 2020
+  1. Participate in Study Jam, supporting scholars as well as participating in webinars and fun activities such as Bingo, Games, Memes, list of songs on spotify, etc.
+  2. I made a record of 5 hours in the Study Jam (it is the most I achieve and I am proud of that)
+
+My BinGo
+
+![My Bingo D33][D33]
+
+## D34 Sunday, August 16, 2020
+  1. Participate in a meeting with the #spanish group where we discussed our group project, together with @ Íñigo Lejarza @Rodrigo J Hernandez @Cesar S. @1729 @ketcx @Carla Florida @Nydia Medina @Diego Durante @Pedro Aarón
+
+PS: yesterday I had a too heavy day since I had several meetings and events that I attended such as the NGConfCo in addition to giving a talk for an event to be held in Latin America called Women Game Jam and the organization of said event by Bolivia ... I didn't make my report, that's why I do it today.
+
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor  @Cesar S.  @Mariia @Andres Dorado @Juan David R. @Mokit Hossain
+
+Meeting SG Group Spanish
+
+![Meeting SG Group Spanish D34][D34]
 
