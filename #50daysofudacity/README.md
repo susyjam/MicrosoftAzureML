@@ -41,6 +41,11 @@
 [D29]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D29%20ML.png
 [D33]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D33%20ML%20my%20bingo.png
 [D34]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D34%20Meeting%20ML%20Spanish.png
+[D41]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D41%20Meeting%20SGSpanish%20ML.png
+[D48-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D48%20Meeting%20Sg_Spanish%20.png
+[D48-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D48%20mLL%20Study%20jam.png
+[D48-3]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D48%20StudyJamML1.png
+[D52]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D52%20oneML.png
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -360,3 +365,138 @@ Meeting SG Group Spanish
 
 ![Meeting SG Group Spanish D34][D34]
 
+## D35 Monday, August 17, 2020
+  1. I worked on my Intel project
+  2. I Started to review Lesson 2: Introduction to Machine Learning
+
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor @Cesar S. @Mariia @Andres Dorado @Juan David R. @Mokit Hossain
+
+## D36 Tuesday, August 18, 2020
+  1. I worked on my Intel project
+  2. I continued to review Lesson 2: Introduction to Machine Learning
+  3. Today I would like to share this music video with https://www.youtube.com/watch?v=SuOJ59ra63g  
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor @Cesar S. @Mariia @Andres Dorado @Juan David R. @Mokit Hossain
+
+## D37 Wednesday, August 19, 2020
+  1. Continue to review Lesson 2: Introduction to Machine Learning
+  2. Continue working with my Intel projects
+  3. Finish reviewing Lesson 2: Journey to the Modern Hybrid Cloud (Nutanix).
+  4. Today I would like to share this music video https://www.youtube.com/watch?v=zKrTKXvmdJE
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor  @Cesar S.  @Mariia @Andres Dorado @Juan David R. @Mokit Hossain
+
+## D38 Thursday, August 20, 2020
+  1. I finished reviewing Lesson 2: Introduction to Machine Learning.
+  2. I continued working with my Intel projects
+  3. Today I prepare a machine learning talk, I am very nervous xD
+  4. Today I would like to share this music video https://youtu.be/SxxXyQbWdSg
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor @Mariia @Andres Dorado @Juan David R. @Mokit Hossain
+
+## D39 Friday, August 21, 2020
+  1. I Started to review Lesson 3
+  2. I kept working with my Intel projects
+  3. Today I gave a machine learning talk, I was very nervous but apparently they like me, I am happy
+  4. Today I would like to share this music video https://www.youtube.com/watch?v=mH0_XpSHkZo
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor @Mariia @Andres Dorado @Juan David R. @Mokit Hossain 
+
+## D40 Saturday, August 22, 2020
+  1. I continued to review Lesson 3
+  2. I kept working with my Intel projects
+  3. Today I would like to share this music video https://www.youtube.com/watch?v=09R8_2nJtjg
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor  @Mariia @Andres Dorado @Juan David R. @Mokit Hossain
+
+## D41 Sunday 23 August 2020
+  1. Today I had a meeting with the #sg_spanish group:dancing_penguin: where we talked about a group project, It is always great to meet with all of you boy @Rodrigo J Hernandez @Cesar S. @ketcx @Humberto @Gabriel M
+  2. I kept working with my Intel projects
+  3. Today I would like to share this music video (I love this song:corazón_púrpura:) https://www.youtube.com/watch?v=RB-RcX5DS5A
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor @Gabriel M @jrborelli @Andres Dorado @Juan David R. @Mokit Hossain
+
+![Meeting SG Group Spanish D41][D41]
+
+## D42 Monday, August 24, 2020
+  1. I continued to review Lesson 3
+  2. I kept working with my Intel project
+  3. I would like to share this beautiful song live https://youtu.be/BzDY9IkOf-o
+
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Samuela Anastasi @LauraT @Pree @Asheem Chhetri @Robert Taylor @Gabriel M  @jrborelli @Andres Dorado @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza @Harshit Rai @Joanne Jons
+
+## D43 Tuesday, August 25, 2020
+  1. I finished reviewing lesson 3
+  2. I kept working with my Intel projects
+  3. I would like to share this beautiful song live https://www.youtube.com/watch?v=fV4DiAyExN0
+
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Ray's Web Presence @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Andres Dorado  @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza @Harshit Rai @Joanne Jons @Gabby @AudreyST @ketcx @Verena 
+
+## D44 Wednesday 26 August 2020
+  1. I started reviewing Lesson 4 
+  2. I kept working with my Intel projects
+  3. I would like to share this beautiful song live https://www.youtube.com/watch?v=2DaRhiCKGMk
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Ray's Web Presence @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Andres Dorado  @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza @Harshit Rai @Joanne Jons @Gabby @AudreyST @ketcx @Verena 
+
+## D45 Thursday 27 August 2020
+  1. I continued to review lesson 4 yeiii
+  2. I continued working with my Intel projects:nerd_face::sweat_smile: (I think I should focus these days more on my intel projects, they are the last days)
+  3. I would like to share this beautiful song https://www.youtube.com/watch?v=PIh2xe4jnpk
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Ray's Web Presence @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Andres Dorado  @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza @Harshit Rai @Joanne Jons @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great work and happy learning guys
+
+## D46 Friday August 28, 2020
+  1. I kept working with my Intel projects
+  2. I continued reviewing lesson 4 yeiii
+  3. I would like to share this beautiful song https://youtu.be/5QYxuGQMCuU
+  
+I would like to cheer on @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Samuela Anastasi @LauraT @Pree @Ray's Web Presence @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Andres Dorado  @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza @Harshit Rai @Joanne Jons  @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great work and happy learning guys 
+
+## D48 Sunday, August 30, 2020
+  1. I continued reviewing lesson 4 
+  2. I participated in the StudyJam of several webinars of the activities, I really liked the list of songs that everyone shared. 
+  3. oday we had a meeting with the #sg_spanish group with @Íñigo Lejarza @Cesar S. @Rodrigo J Hernandez @Fernando T @ketcx where we talked about the showcase project that we will present as a team.
+  4. I would like to share this beautiful song that I love https://youtu.be/rtOvBOTyX00
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Andres Dorado @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
+
+Meeting SG Group Spanish
+![Meeting SG Group Spanish D48][D48-1]
+
+Study Jam 2
+![Study Jam 2 ][D48-2]
+
+Beautiful Study jam badge by me 
+![Study Jam Badge ][D48-3]
+
+## D49 Monday, August 31, 2020
+  1. I finished reviewing lesson 4 yeiii
+  2. I would like to share this beautiful song that I love https://youtu.be/VXWlrPYY4h8
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Andres Dorado @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
+
+## D50 Tuesday, September 1, 2020
+  1. Yeiii! today I finished the 50 day challenge
+  2. I started reviewing lesson 5 
+  3. I would like to share this beautiful song https://youtu.be/f6Cswdm601A
+
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence @Asheem Chhetri @Robert Taylor   @Gabriel M @jrborelli @Andres Dorado @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons   @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
+
+## D51 Wednesday September 2, 2020
+  1. I continued reviewing Lesson 5
+  2. I would like to share this beautiful song https://www.youtube.com/watch?v=A9D0oYlLoWA
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence @Asheem Chhetri @Robert Taylor   @Gabriel M @jrborelli @Andres Dorado @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons    @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
+
+## D52 Thursday, September 3, 2020
+  1. I continued to review Lesson 5
+  2. Today I puted in my state that I completed the course with the fabulous badge :coursecompleted:, this so that those who have not finished yet and have doubts about the course can ask me and thus be able to help them. If you managed to finish the course, I encourage you to use it to help others, and the badge is a nice reward for the great work they did.
+  3. I share the link of my repository that contains my challenge #50daysofudacity 
+  4. I would like to share this beautiful song https://youtu.be/KAhf4xFBgtQ
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence @Asheem Chhetri @Robert Taylor @Gabriel M @jrborelli @Rothwulf  @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys 
+
+Beautiful Completed Course badge by me 
+
+![Completed Course ][D52]
