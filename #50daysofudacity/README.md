@@ -46,6 +46,10 @@
 [D48-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D48%20mLL%20Study%20jam.png
 [D48-3]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D48%20StudyJamML1.png
 [D52]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D52%20oneML.png
+[D53]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D53%20%2350daysofUdacity_Badge.png
+[D53-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D53%20ML.png
+[D53-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D53%20susyjam%20ML.jpg
+
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -500,3 +504,24 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
 Beautiful Completed Course badge by me 
 
 ![Completed Course ][D52]
+
+## D53 Friday, September 4, 2020
+  1. I finished reviewing Lesson 5
+  2. Today I filled out the #50daysofudacity  conclusion form
+  3. Today I filled out the Student Stories Challenge form, I don't know why I waited for the last moment to fill it out xD
+  4. I share my repository link containing my #50daysofudacity challenge
+  5. I would like to share this beautiful song in Spanish, it is very romantic https://youtu.be/hXA3NaNO26c
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
+
+50 days of Udacity Badge
+
+![50daysofUdacity_Badge ][D53]
+
+List
+
+![List 50daysofUdacity ][D53-1]
+
+Student Stories Challenge Susyjam
+
+![Student Stories Challenge Susyjam][D53-2]
