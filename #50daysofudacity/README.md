@@ -49,6 +49,7 @@
 [D53]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D53%20%2350daysofUdacity_Badge.png
 [D53-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D53%20ML.png
 [D53-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D53%20susyjam%20ML.jpg
+[D54]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D54%20SG%20SPAIC%20ML.png
 
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
@@ -525,3 +526,13 @@ List
 Student Stories Challenge Susyjam
 
 ![Student Stories Challenge Susyjam][D53-2]
+
+## D54 Saturday September 5, 2020
+  1. I started reviewing Lesson 6
+  2. Today I had a meeting with the group #sg_spaic, Thank you @Sadmi for your presentation! ... It's always fun and rewarding meeting with this great group, I always learning something new, thanks guys @Mariia, @Sadmi, @Sabyh, @Aarthi Alagammai, @Bhadresh Savani, @Clarence Lam, @Hanane Ouhammouch, @Dimitra Karamperi, @Harini Pavithra, @LauraT, @Muhammad Haris, @Muhammad.Ali, @Remi, @Verrah Otiende, @Virral Mamniya, @Shudipto Trafder, @ayse.nur, @erin song, @Snehal Lokesh, @EnricoD, @tammy_628, @Anna , @Alex, @Fernando T, @Sharjeel.Butt, @Loise,
+  3. I would like to share this beautiful song in Spanish, it is very romantic https://www.youtube.com/watch?v=rLm_aSP369M
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
+
+Meeting SG Spaic ML
+![Meeting SG SPAIC ML][D54]
