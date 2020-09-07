@@ -50,7 +50,8 @@
 [D53-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D53%20ML.png
 [D53-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D53%20susyjam%20ML.jpg
 [D54]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D54%20SG%20SPAIC%20ML.png
-
+[D55]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D55%20ML.png
+[D55-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D55.png
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -536,3 +537,13 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
 
 Meeting SG Spaic ML
 ![Meeting SG SPAIC ML][D54]
+
+## D55 Sunday, September 6, 2020
+  1. Today I had a meeting with the group #s we talked about the possible Project Showcase in which we will work, thanks for the ideas and the progress of your tasks guys @AndyP  @Íñigo Lejarza @Cesar S. @Stanley Salvatierra @Fernando T @ketcx 
+  2. I would like to share this beautiful song https://www.youtube.com/watch?v=wdHeiVf0mds
+
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence  @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons   @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
+
+Meeting SG Spanish ML
+![Meeting SG Spanish  ML][D55]
+![Meeting SG Spanish  ML][D55-1]
