@@ -550,7 +550,8 @@ Meeting SG Spanish ML
 
 ## D56 Monday, September 7, 2020
   1. Today I continued to review Lesson 6
-  2. I would like to share this beautiful song https://youtu.be/AEp08vVYreg
+  2. I attended an online class in youtub (Spanish) Introduction to Data Mining and Machine Learning https://youtu.be/CQL0Pi-MS9s
+  3. I would like to share this beautiful song https://youtu.be/AEp08vVYreg
   
 I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence  @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons    @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
 
