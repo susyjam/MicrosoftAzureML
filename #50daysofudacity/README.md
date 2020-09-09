@@ -560,5 +560,6 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
   2. I attended Azure webinar series: Reduce Data Costs by Migrating to Azure SQL Managed Databases
   3. I attended this training in Spanish given by Google https://www.youtube.com/watch?v=zt4mKnM1L8A&t=48s
   4. I would like to share this beautiful song https://youtu.be/7wtfhZwyrcc
+  5. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
   
 I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence  @Asheem Chhetri @Robert Taylor   @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons    @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
