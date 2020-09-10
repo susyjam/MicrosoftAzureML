@@ -52,6 +52,7 @@
 [D54]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D54%20SG%20SPAIC%20ML.png
 [D55]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D55%20ML.png
 [D55-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D55.png
+[D58]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D58%20awesomeBrenda.jpg
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -173,7 +174,7 @@ I would like to encourage @Juan David R. @Israel Tiñini Alvarez @Sabyh @Joanne 
   1. Today I started lesson 4 Supervised & unsupervised Learning yeii!  
   2. Today I finished with lesson 4 Hybrid Cloud Security yeii! 
   3. Today I had a meeting with the #sg_edge_iot group with @Cesar S. @Sadmi @carloshvp @Rodrigo J Hernandez @Andreas Rhode @Alexander Korolev @tmmsagheer @emily @Arindam Banerjee @Advait Kumar
-  4. Today I had a meeting with the #sg_spanish group we had 2 presentations of @Íñigo Lejarza with Data Drift and @Carla Florida, it was a very interesting meeting, thanks for coming @ketcx @Fernando T @Cesar S. @Rodrigo J Hernandez @Carlos Castro @Nydia Medina @Adriana Cárdenas @C.Gustavo_Seminario @Jesus Golindano@Josselyn Gomez Bravo @Rodrigo Piña Lépiz @Ronaldo Cachi Delgado
+  4. Today I had a meeting with the #sg_spanish group we had 2 presentations of @Íñigo Lejarza with Dahttps://www.youtube.com/watch?v=8J-LAkbzyYEta Drift and @Carla Florida, it was a very interesting meeting, thanks for coming @ketcx @Fernando T @Cesar S. @Rodrigo J Hernandez @Carlos Castro @Nydia Medina @Adriana Cárdenas @C.Gustavo_Seminario @Jesus Golindano@Josselyn Gomez Bravo @Rodrigo Piña Lépiz @Ronaldo Cachi Delgado
   5.Today I continued with my Intel project!
   
 I would like to encourage @Juan David R. @Israel Tiñini Alvarez @Sabyh @Joanne Jons @Pasupuleti Chandana @JohnBucMoore @Geetha @Stanley Salvatierra @Aishwarya Mahapatra @Mokit Hossain
@@ -563,3 +564,17 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
   5. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
   
 I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence  @Asheem Chhetri @Robert Taylor   @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons    @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
+
+## D58 Wednesday, September 9, 2020
+  1. Today I continued to review Lesson 6
+  2. I attended a great session "Palak & Brenda’s Udacity Story" I loved hearing them @Brenda.Udacity and  @Palak.Udacity , thank you for the motivation and tell us a little about your story, it is really inspiring... I share a photo of the funny moment of @Brenda.Udacity, you are great Brenda!
+  3. I attended this training in Spanish given by Google (day 3) https://www.youtube.com/watch?v=8J-LAkbzyYE
+  4. I attended an online class in youtub (Spanish) Introduction to Data Mining and Machine Learning (Example) https://youtu.be/uXeNy57Npp8
+  5. I would like to share this beautiful song https://youtu.be/fLexgOxsZu0
+  6. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado   @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence  @Asheem Chhetri @Robert Taylor    @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons     @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
+
+Great Brenda!!
+
+![great Brenda][D58]
