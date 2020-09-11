@@ -578,3 +578,12 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
 Great Brenda!!
 
 ![great Brenda][D58]
+
+## D59 Thursday, September 10, 2020
+  1. Today I continued to review Lesson 6
+  2. I attended this training in Spanish given by Google (day 4)  https://youtu.be/iSdX7yl7qoI
+  3. I would like to share this beautiful song  https://youtu.be/jvipPYFebWc
+  4. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado   @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence  @Asheem Chhetri @Robert Taylor    @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
+
