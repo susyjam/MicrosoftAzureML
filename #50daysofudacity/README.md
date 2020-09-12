@@ -587,3 +587,11 @@ Great Brenda!!
   
 I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado   @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence  @Asheem Chhetri @Robert Taylor    @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
 
+## D60 Friday, September 11, 2020
+  1. Today I continued to review Lesson 6
+  2. I attended this training in Spanish given by Google (day 5)  https://youtu.be/_XUr12HmTkc
+  3. I would like to share this beautiful song  https://youtu.be/fD2UExUhq-s
+  4. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado   @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence  @Asheem Chhetri @Robert Taylor    @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guy
+
