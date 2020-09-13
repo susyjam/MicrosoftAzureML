@@ -53,6 +53,7 @@
 [D55]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D55%20ML.png
 [D55-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D55.png
 [D58]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D58%20awesomeBrenda.jpg
+[D61]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/HappyPD.jpg
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -595,3 +596,14 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
   
 I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado   @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence  @Asheem Chhetri @Robert Taylor    @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guy
 
+## D61 Saturday, September 12, 2020
+  1. Today I continued to review Lesson 6
+  2. By the way, happy programmer's day everyone!:dancing_penguin::purple_heart::heads-down:
+  3. I would like to share this beautiful song  https://youtu.be/W-TE_Ys4iwM .... @Sabyh :dancing_penguin:
+  4. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado   @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence  @Asheem Chhetri @Robert Taylor    @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
+
+Happy Programmer's day!
+
+![Happy Programmer's day!][D61]
