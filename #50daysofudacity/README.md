@@ -54,6 +54,9 @@
 [D55-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D55.png
 [D58]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D58%20awesomeBrenda.jpg
 [D61]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/HappyPD.jpg
+[D62-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D62%20ML%20Sg%20Spanish%20PS.png
+[D62-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D62%20Meeting%20Sg%20Spanish%20ML.jpeg
+
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -607,3 +610,16 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Sing
 Happy Programmer's day!
 
 ![Happy Programmer's day!][D61]
+
+## D62 Sunday, September 13, 2020
+  1. Today I had a meeting with the #sg group, we talked about the progress of the projects showcase  that we will present. Thanks for the participation guys @Íñigo Lejarza @Cesar S. @Stanley Salvatierra @ketcx
+  2. I would like to share this beautiful song  https://www.youtube.com/watch?v=t4H_Zoh7G5A
+  3. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado   @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence   @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys
+
+Meeting Sg Spanish ML
+
+![Meeting Sg Spanish ML][D62-1]
+
+![Meeting Sg Spanish ML][D62-2]
