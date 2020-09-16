@@ -56,7 +56,10 @@
 [D61]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/HappyPD.jpg
 [D62-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D62%20ML%20Sg%20Spanish%20PS.png
 [D62-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D62%20Meeting%20Sg%20Spanish%20ML.jpeg
-
+[D64-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D63-1%20RPA.jpg
+[D64-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D63-2%20RPA.jpg
+[D64-3]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D63-3%20RPA.jpg
+[D64-4]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D63-4%20RPA.jpg
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -630,3 +633,18 @@ Meeting Sg Spanish ML
   3. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
 
 I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado   @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence   @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys:purple_heart:
+
+## D64 Tuesday, September 15, 2020
+  1. Today I Started to review Lesson 7
+  2. Today I participated in The RPA Insiders Virtual Conference by Udacity
+  3. I would like to share this beautiful song  https://www.youtube.com/watch?v=KXw8CRapg7k
+  4. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado   @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence   @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons   @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys:purple_heart:
+
+The RPA Insiders Virtual Conference by Udacity
+
+![RPA][D64-1]
+![RPA][D64-2]
+![RPA][D64-3]
+![RPA][D64-4]
