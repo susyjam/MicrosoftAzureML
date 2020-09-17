@@ -60,6 +60,8 @@
 [D64-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D63-2%20RPA.jpg
 [D64-3]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D63-3%20RPA.jpg
 [D64-4]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D63-4%20RPA.jpg
+[D65-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D65%20meeting%20%20ML%20PS.png
+[D65-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D65-1%20meeting%20%20ML%20PS.png
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -648,3 +650,15 @@ The RPA Insiders Virtual Conference by Udacity
 ![RPA][D64-2]
 ![RPA][D64-3]
 ![RPA][D64-4]
+
+## D65 Wednesday, September 16, 2020
+  1. Today I continued to review Lesson 7
+  2. Today we had a meeting with the #sg group to know the progress of the project showcase with @Fernando T @ketcx @Cesar S. @Stanley Salvatierra @Íñigo Lejarza :dancing_penguin:
+  3. I would like to share this beautiful song  https://www.youtube.com/watch?v=KXw8CRapg7k
+  4. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence   @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons    @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena ... great job and happy learning guys:purple_heart:
+
+Meeting Sg Spanish ML
+![Meeting Sg Spanish ML][D65-1]
+![Meeting Sg Spanish ML][D65-2]
