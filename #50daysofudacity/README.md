@@ -662,3 +662,11 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
 Meeting Sg Spanish ML
 ![Meeting Sg Spanish ML][D65-1]
 ![Meeting Sg Spanish ML][D65-2]
+
+
+## D66 Thursday, September 17, 2020
+  1. Today I continued to review Lesson 7
+  2. I would like to share this beautiful song  https://www.youtube.com/watch?v=YQHsXMglC9A
+  3. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence   @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons     @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena @Leo Biaggi @AndyP @Anderson Furtado... great job and happy learning guys:purple_heart:
