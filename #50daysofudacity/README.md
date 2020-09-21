@@ -62,6 +62,9 @@
 [D64-4]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D63-4%20RPA.jpg
 [D65-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D65%20meeting%20%20ML%20PS.png
 [D65-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D65-1%20meeting%20%20ML%20PS.png
+[D69-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D69%20ML%20bingoJSMC%20StudyJam3-0.jpg
+[D69-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D69%20ML%20azure.jpg
+[D69-3]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/StudyJam3%20ML.png
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -677,3 +680,34 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
   3. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
   
 I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh @Anderson Furtado  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence   @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons   @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena @Leo Biaggi @AndyP @Anderson Furtado... great job and happy learning guys:corazón_púrpura:
+
+
+## D68 Saturday, September 19, 2020
+  1. Today I continued to review Lesson 7
+  2. I would like to share this beautiful song  https://youtu.be/rLm_aSP369M
+  3. I participated in the quick #sg_spaic meeting and the fun questions on the channel.:nerd_face:
+  
+## D69 Sunday, September 20, 2020
+  1. I participated in Study jam 3.0 between 4 to 5 hours more or less (I did not break my record of 7 hours :expressionless:)
+  2. We planned a fun F.R.I.E.N.D.S quiz and I featured it with @Pavan B J on #relax
+  3. I participated in bingo! (I like to do it) thanks @LauraT for the initiative:purple_heart:
+  4. I participated in webinars and games like kahoot ML (I did not win) :disappointed: 
+  5. Today we finished doing the project showcase with @ketcx, I want to thank all my great team #sg_spanish @Íñigo Lejarza, @Cesar S., @Fernando T, @Stanley Salvatierra, @ketcx and me, who every weekend we meet to talk about it( we did 3 projects):dancing_penguin:
+  6. I earned the badge :studyjam3_star: for participating in this fabulous Study Jam (I love making badges :heart_eyes:)
+  7. I would like to share this beautiful song https://youtu.be/52nfjRzIaj8
+  
+My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence   @Asheem Chhetri @Robert Taylor   @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @O. S. @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons    @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena @Leo Biaggi @AndyP @Anderson Furtado @Panth Shah ... great job and happy learning guys:purple_heart:
+
+Bingo Study Jam 3.0
+
+![Bingo][D69-1]
+
+Great Team Sg Spanish ML
+
+![Great Team Sg Spanish ML][D69-2]
+
+Badge Study Jam 3.0
+
+![Badge][D69-3]
