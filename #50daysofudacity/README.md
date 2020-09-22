@@ -65,6 +65,7 @@
 [D69-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D69%20ML%20bingoJSMC%20StudyJam3-0.jpg
 [D69-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D69%20ML%20azure.jpg
 [D69-3]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/StudyJam3%20ML.png
+[D70]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/happy-students-eye-glasses-on-hand.jpg
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -711,3 +712,15 @@ Great Team Sg Spanish ML
 Badge Study Jam 3.0
 
 ![Badge][D69-3]
+
+## D70 Monday, September 21, 2020
+  1. Today I continued to review Lesson 7
+  2. I would like to share this beautiful song https://youtu.be/3DQATvwX4aI
+  3. Today in my country is student's day, so I want to congratulate all of you who dedicate time to constant study, you are really great! Do not stop learning:cara_de_nerd:
+  4. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence   @Asheem Chhetri @Robert Taylor    @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @Oscar Dicenta @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons    @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena @Leo Biaggi @AndyP @Anderson Furtado @Panth Shah ... great job and happy learning guys:corazón_púrpura:
+
+Happy student's day
+
+![Happy student's day][D70]
