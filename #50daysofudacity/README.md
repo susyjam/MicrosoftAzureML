@@ -724,3 +724,12 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
 Happy student's day
 
 ![Happy student's day][D70]
+
+
+## D71 Tuesday, September 22, 2020
+  1. Today I continued to review Lesson 7
+  2. I would like to share this beautiful song https://www.youtube.com/watch?v=oQrIbBqV2Ew
+  3. I shared the projects we did with the guys from #sg_spanish , There are three and I'm excited to share it with you Project 1, Project 2, Project 3, if you like them, don't hesitate to leave a lot of emoticons.:purple_heart:
+  4. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence   @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @Oscar Dicenta @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons   @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena @Leo Biaggi @AndyP @Anderson Furtado  @Panth Shah ... great job and happy learning guys:purple_heart:
