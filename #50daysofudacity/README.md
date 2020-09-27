@@ -66,6 +66,7 @@
 [D69-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D69%20ML%20azure.jpg
 [D69-3]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/StudyJam3%20ML.png
 [D70]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/happy-students-eye-glasses-on-hand.jpg
+[D75]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D75%20CDDB.jpg
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -755,3 +756,15 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Sing
   
 I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence    @Asheem Chhetri @Robert Taylor   @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @Oscar Dicenta @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons   @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena @Leo Biaggi @AndyP @Anderson Furtado   @Panth Shah ... great job and happy learning guys:corazón_púrpura:
 
+## D75  Saturday, September 25, 2020
+  1. Today I participated in the final jam at Nutanix, it was incredible!
+  2. I participated in several events of Collective Voices LATAM - Women Techmakers.
+  3. We organize in the first event of data scientists Bolivia where we talk about Data Science, I love sharing knowledge.
+  4. I would like to share this beautiful song https://youtu.be/tcrTQUVkUe0
+  5. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence    @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @Oscar Dicenta @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena @Leo Biaggi @AndyP @Anderson Furtado @Panth Shah ... great job and happy learning guys:purple_heart:
+
+1er Webinar - Científicas de Datos Bolivia 
+
+![1er Webinar - Científicas de Datos Bolivia ][D75]
