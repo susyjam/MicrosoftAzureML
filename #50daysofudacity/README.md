@@ -67,6 +67,7 @@
 [D69-3]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/StudyJam3%20ML.png
 [D70]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/happy-students-eye-glasses-on-hand.jpg
 [D75]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D75%20CDDB.jpg
+[D76]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D76%20ml%20ultimo.png
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -768,3 +769,14 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
 1er Webinar - Científicas de Datos Bolivia 
 
 ![1er Webinar - Científicas de Datos Bolivia ][D75]
+
+## D76  Sunday, September 27, 2020
+  1. Today we had our last meeting with the #sg group, we talked about our future projects and about our trajectory up to this point. I will miss the Sunday to Sunday meetings very much, I am happy to have met great people, Thank you guys for everything! @Fernando T @Cesar S. @Carlos Castro @ketcx @Stanley Salvatierra @AndyP :purple_heart:
+  2. I would like to share this beautiful song https://youtu.be/eDHRy7ltEXw
+  3. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence    @Asheem Chhetri @Robert Taylor @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @Oscar Dicenta @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena @Leo Biaggi @AndyP @Anderson Furtado @Panth Shah ... great job and happy learning guys:purple_heart:
+
+Last Meeting #Sg_Spanish 
+
+![Last Meeting #Sg_Spanish ][D76]
