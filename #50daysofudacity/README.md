@@ -68,6 +68,8 @@
 [D70]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/happy-students-eye-glasses-on-hand.jpg
 [D75]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D75%20CDDB.jpg
 [D76]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D76%20ml%20ultimo.png
+[D77-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D77%20Proces%20of%20elections%20ML%20.png
+[D77-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D77%20fake%20news%20ML.png
 
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
@@ -780,3 +782,24 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @N
 Last Meeting #Sg_Spanish 
 
 ![Last Meeting #Sg_Spanish ][D76]
+
+
+## D77  Monday, September 28, 2020
+
+I am very happy that my #sg_spanish team managed to win 2 categories with 2 projects in the #project_showcase_challenge 
+  1. Innovation & Creativity: Computer Vision for Automate the Process of Elections (Link: https://github.com/mhmohona/MicrosoftML-ProjectShowcasing/tree/master/project/Fernando%20T)
+  1. Responsible AI: Fake News Classifier using Machine Learning (Link : https://github.com/mhmohona/MicrosoftML-ProjectShowcasing/tree/master/project/Armando%20Medina)
+  
+Thank you guys for taking your time on all the projects! @Fernando T @Cesar S.  @ketcx @Stanley Salvatierra @Íñigo Lejarza  :purple_heart:
+
+  * I would like to share this beautiful song https://www.youtube.com/watch?v=SuOJ59ra63g
+  * My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+  
+I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence    @Asheem Chhetri @Robert Taylor @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @Oscar Dicenta @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons  @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena @Leo Biaggi @AndyP @Anderson Furtado @Panth Shah ... great job and happy learning guys:purple_heart:
+
+### Innovation & Creativity: Computer Vision for Automate the Process of Elections
+
+![Innovation & Creativity: Computer Vision for Automate the Process of Elections ][D77-1]
+
+### Responsible AI: Fake News Classifier using Machine Learning 
+![Responsible AI: Fake News Classifier using Machine Learning ][D77-2]
