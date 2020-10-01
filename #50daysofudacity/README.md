@@ -70,7 +70,8 @@
 [D76]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D76%20ml%20ultimo.png
 [D77-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D77%20Proces%20of%20elections%20ML%20.png
 [D77-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D77%20fake%20news%20ML.png
-
+[D79-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D79%20%20%20Student%20leadre.png
+[D79-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D79%20ML.jpg
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
 # #50daysofudacity
@@ -803,3 +804,26 @@ I would like to encourage @erin song @Fernando T @Juan Carlos @Harkirat Sing
 
 ### Responsible AI: Fake News Classifier using Machine Learning 
 ![Responsible AI: Fake News Classifier using Machine Learning ][D77-2]
+
+
+## D78  Tuesday, September 29, 2020
+I had heavy days from work and other activities of the technological communities in which I support, but as I always come to make my last reports, without a doubt    1. I will miss doing these reports:purple_heart:
+I would like to share this beautiful song https://youtu.be/RB-RcX5DS5A
+## D79  Wednesday, September 30, 2020
+  1. Today I finished reviewing all the lessons and I realized that there were lessons in which some questionnaires were not answered, and I accelerated reviewing all the lessons, manually review each lesson very well.:heavy_check_mark:
+  2. Today I got nostalgic, I am a very sentimental person, I really liked sharing with all of you this great learning path, I met great people, I learned a little more English, I had a lot of fun learning, I loved all the meetings I had with #sg_spaic and #sg_spanish are the best groups that I love. I loved participating in all the activities, Thank you @Palak.Udacity and @Brenda.Udacity for each of your initiatives, for the joy and constant motivation.:purple_heart:
+  3. I participated in #ama_session, which was an emotional moment, I loved each message from my classmates @Brenda.Udacity and @Palak.Udacity, they are great:blush:
+  4. I would like to share this beautiful song https://youtu.be/fLexgOxsZu0
+  5. My repository for challenge #50daysofudacity https://github.com/susyjam/MicrosoftAzureML/tree/master/%2350daysofudacity
+  
+Thanks to all of you for every moment shared in this learning @erin song @Fernando T @Juan Carlos @Harkirat Singh @Nydia Medina @Aravind G @Amardeep Singh @Rodrigo Piña Lépiz @Geetha @Sabyh  @Yash Kulkarni @Samuela Anastasi @LauraT @Pree @Ray's Web Presence    @Asheem Chhetri @Robert Taylor  @Gabriel M @jrborelli @Rothwulf @Juan David R. @Mokit Hossain @Oscar Dicenta @1729 @Rodrigo J Hernandez @Íñigo Lejarza  @Harshit Rai @Joanne Jons   @JohnBucMoore @daniel.villegas @jrborelli @Gabby @AudreyST @ketcx @Verena @Leo Biaggi @AndyP @Anderson Furtado @Panth Shah @mira @Samuela Anastasi @Stanley Salvatierra @Sadmi @Andres Leonardo Becerra @jrborelli @JohnBucMoore @Aarthi Alagammai @JohnBucMoore @Fatima-Ezzahra OUHMID @Verena @Rami Azmi @Panth Shah @Mahfuza Mohona @Satish Mulay @Harini Pavithra @Day @Ayoyinka @Shatakshi Pachori @Anurag_hiwanj @Radha Revathi G @Anne Losch @Parvati @Bharati @Gayathri Rajan @Joanne Jons @Nícolas Pauli @Verrah Otiende @Zoé Goey @Mariia @An Van @Varada.B @Day @Prabha Venkatesh @Purvaja Durga Barnala @Prashasti Gupta @Aarthi Alagammai @S H Aishwarya @Arshi Saleh @Marwan Saeed Alsharabbi @Remi @Anderson Furtado @Verrah Otiende @Nancy Al Aswad @Dimitra Karamperi @Audrey Mengue @Nidhi Singh @Divya Sri Bhargavi @Vijoy Basu @Mobasshir Bhuiyan @Swapnil Gaikwad @lanenok @Harini Pavithra @eparamasari @Sachin Dev @Vivian J. @Hareesh Namani @Silvana Zdravevska @Clarence Lam @Imane Euldji @Ankita Ghosh @Surabhi Srivastava @Tali @Chinelo Okafor @Melanie Denyer @Peace Peters @Anupriya Saraswat @Hanane Ouhammouch @Claudia Everett @AudreyST @Sabyh @Ohikhatemen George  @Sadmi @Himanshu Madan @Muhammad Saad Uddin @Memphis Ndego @LauraT @Surbhi Sharma @Clinton B @erin song @Muhammad.Ali @Sayed Ahmed @Ike Nigel.O. @Reem Q. @Muhammad Haris @Jose Praveen @Anna @Anna Kondratenko @Shimaa Ahmed @Pooja Sajnani @Neringa Bukyte @Aleem Juma @Anna @Verena @Mahesh Khatri @Priyanshi Sharma @Abita Ann Augustine @Russell Hanna @Vaani Bansal  @Khushal Goyal @Adekunle Gabriel @Visarion @NIYOMUKIZA THAMAR @Ashika @Tj.Udacity @Paula @Veronica @Neema Mwaniki @ayse.nur @Michelle Santokie @Ray's Web Presence @Mahesh Khatri @Neha Dohare @Ohikhatemen George @Spyridon Mouratis @Sayar Banerjee @Ani @Swapna @Fatima @Tahreem Arif @Eman Ijaz @ramreddy @Daria
+@Srishti Guleria @Elizabeth Jara @PRIYANKA UMRE @Thant Thazin Eain @Vani Gupta @Harshit Rai @Nuria A Malet Quintar  @Rothwulf @HajarS @Dalleth Espindola @Miruna @Vinay @Loise @Rohan @Vishal Bansal @MihailD @Rattana @Mary.Jonah @Lara @Shikhar Chhabra @Claudia Everett @Igor Dias @Luisa Morales @Daria @AYENI OREJAH @Nadine AB @tammy_628 @ILS:purple_heart::purple_heart:
+
+
+### Memory of a meeting of student leaders
+
+![Memory of a meeting of student leaders ][D79-1]
+
+### Beautiful  #ama_sessions
+
+![Beautiful  #ama_sessions ][D79-2]
