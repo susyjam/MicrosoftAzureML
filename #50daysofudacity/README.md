@@ -72,6 +72,10 @@
 [D77-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D77%20fake%20news%20ML.png
 [D79-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D79%20%20%20Student%20leadre.png
 [D79-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D79%20ML.jpg
+[D80-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/Project%20S%20JSMC..jpg
+[D80-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/Project%20SC%20JSMC.jpg
+[D80-3]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/Projects%20JSMC..jpg
+
 # MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP
 
 # #50daysofudacity
@@ -827,3 +831,24 @@ Thanks to all of you for every moment shared in this learning @erin song @Fern
 ### Beautiful  #ama_sessions
 
 ![Beautiful  #ama_sessions ][D79-2]
+
+## D80 Project showcase winners
+
+I still can't believe it, I am very excited about these badges because they are the result of many meetings, teamwork and above all meeting great people!  
+My #sg_spanish team managed to win 2 categories with 2 projects in the #project_showcase_challenge in Microsoft Azure Machine Learning Scholarship.
+   *Innovation & Creativity: Computer Vision for Automate the Process of Elections
+   *Responsible AI: Fake News Classifier using Machine Learning
+Thank you guys for taking your time on all the projects! Fernando Terrazas, Stanley Alexander, Armin Medx @Cesar S.  @Íñigo Lejarza, all are amazing ♡
+#machinelearning #UdacityMicrosoftMLScholarship #ML #udacity #microsoftazure #microsoft #machinelearning #learning #studygroup
+
+### Innovation & Creativity
+
+![Innovation & Creativity][D80-1]
+
+### Responsible AI
+
+![Innovation & Creativity][D80-2]
+
+### Projects Showcase
+
+![Projects Showcase][D80-3]
