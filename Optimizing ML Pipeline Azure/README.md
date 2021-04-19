@@ -58,7 +58,8 @@ AutoML provided the ability to run multiple experiments and choose best clasfica
 
 Overall 14 classification models were run, VotingEnsemble algorithm proved to be the best model with an accuracy of 91.6%. VotingEnsemble takes a majority vote of several algorithms, this make it extremely robust and helps reduce the bias associated with individual algorithms.
 
-LightGBM Classifier was one of the algorithms used in VotingEnsemble, below are the hyperparameters associated with it -
+LightGBM Classifier was one of the algorithms used in VotingEnsemble, below are the hyperparameters associated with it
+
 ![ONE](https://github.com/susyjam/MicrosoftAzureML/blob/master/Optimizing%20ML%20Pipeline%20Azure/images/1.5.png)
 
 Lists all the classification models executed by AutoML
