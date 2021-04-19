@@ -32,11 +32,20 @@ The best performing model found using AutoML was a Voting Ensemble with 91.6% ac
 
 Performed random sampling over the hyperparameter search space using RandomParameterSampling in our parameter sampler, this drastically reduces computation time and we are still able to find reasonably good models when compared to GridParameterSampling methodology where all the possible values from the search space are used, and it supports early termination of low-performance runs
 
+Parameter sampling method helps us to choose proper hyperparameter value for our model, in Azure Machine Learning supports the following methods:
+  1. Random sampling
+  2. Grid sampling
+  3. Bayesian sampling I opted Random sampling method.
+
+
+
 **What are the benefits of the early stopping policy you chose?**
 
 BanditPolicy is used here which is an "aggressive" early stopping policy. It cuts more runs than a conservative policy like the MedianStoppingPolicy, hence saving the computational time significantly. Configuration Parameters:-
 
 * slack_factor/slack_amount : (factor)The slack allowed with respect to the best performing training run.(amount) Specifies the allowable slack as an absolute amount, instead of a ratio. Set to 0.1.
+
+* The early stopping policies automatically terminate poorly performing runs and improves computational efficiency.
 
 * evaluation_interval : (optional) The frequency for applying the policy. Set to 1.
 
@@ -54,7 +63,9 @@ LightGBM Classifier was one of the algorithms used in VotingEnsemble, below are 
 
 Lists all the classification models executed by AutoML
 ![two](https://github.com/susyjam/MicrosoftAzureML/blob/master/Optimizing%20ML%20Pipeline%20Azure/images/1.1.png)
+
 or 
+
 ![tree](https://github.com/susyjam/MicrosoftAzureML/blob/master/Optimizing%20ML%20Pipeline%20Azure/images/1.4.png)
 
 ## Pipeline comparison
@@ -72,4 +83,6 @@ or
 * Look at other performance metric such as Precision, Recall and F1 Score as Accuracy metric can be misleading while working with class imbalanced dataset 
 
 ## Proof of cluster clean up
+
+The image shows cluster getting deleted
 ![Proof of cluster clean up](https://github.com/susyjam/MicrosoftAzureML/blob/master/Optimizing%20ML%20Pipeline%20Azure/images/1.6.png)
