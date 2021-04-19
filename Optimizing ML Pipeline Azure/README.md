@@ -6,21 +6,22 @@ In this project, we build and optimize an Azure ML pipeline using the Python SDK
 This model is then compared to an Azure AutoML run.
 
 ## Summary
-This dataset contains data pertaining to direct marketing campaigns of a banking institution. The marketing campaigns were based on phone calls to convince potenitial clients to subscribe to bank's term deposit. We seek to predict whether the potential client would accept and make a term deposit at the bank or not.
+This dataset contains data pertaining to direct marketing campaigns of a banking institution. 
+The marketing campaigns were based on phone calls to convince potenitial clients to subscribe to bank's term deposit. We seek to predict whether the potential client would accept and make a term deposit at the bank or not.
 
 
-The best performing model found using AutoML was a Voting Ensemble with 91.6% accuracy, while the accuarcy of Logistic classifier implemented using hyperdrive was 91.1%
+The best performing model found using AutoML was a Voting Ensemble with 91.6% accuracy, while the accuarcy of Logistic classifier implemented using hyperdrive was 90.7%
 
 ## Scikit-learn Pipeline
 **Explain the pipeline architecture, including data, hyperparameter tuning, and classification algorithm.**
 
-* The data is accessed from url - "https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv", and a Tabular Dataset is created using TabularDatasetFactory 
+* The data is accessed from url - "https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv" and a Tabular Dataset is created using TabularDatasetFactory 
 
-* The dataset is cleaned using python script. cleaning includes encoding categorical values, representing some non numeric values into numeric format
-
-* Data is then cleaned and pre-processed using clean_data function, this includes Binary encoding and One Hot Encoding of categorical features
+* The dataset is cleaned using python script. Representing some non numeric values into numeric format,  cleaning includes encoding categorical values
 
 * Define a Scikit-learn based Logistic Regression model and set up a parameter sampler. We define 2 hyperparameters to be tuned, namely C and max_iter. C represents the inverse regularization parameter and max_iter represents the maximum number of iterations
+
+* Data is then cleaned and pre-processed using clean_data function, this includes Binary encoding and One Hot Encoding of categorical features
 
 * Data is then split into 80 training and testing 20
 
@@ -30,13 +31,13 @@ The best performing model found using AutoML was a Voting Ensemble with 91.6% ac
 
 **What are the benefits of the parameter sampler you chose?**
 
-Performed random sampling over the hyperparameter search space using RandomParameterSampling in our parameter sampler, this drastically reduces computation time and we are still able to find reasonably good models when compared to GridParameterSampling methodology where all the possible values from the search space are used, and it supports early termination of low-performance runs
+GridParameterSampling where all possible search space values are used, and early termination of low-performance executions is supported
+Random sampling performed in the hyperparameter search space using RandomParameterSampling in our parameter sampler, this drastically reduces computation time and we can still find reasonably good models compared to the methodology
 
 Parameter sampling method helps us to choose proper hyperparameter value for our model, in Azure Machine Learning supports the following methods:
   1. Random sampling
   2. Grid sampling
   3. Bayesian sampling I opted Random sampling method.
-
 
 
 **What are the benefits of the early stopping policy you chose?**
