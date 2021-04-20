@@ -130,7 +130,7 @@ This project can be improved on by:
  ![Video][1.15]
  
 Apparently my microphone failed, sorry for the inconvenience, so I tried to detail everything.
-I would like to fix it again but I only have access to the course for a couple of hours, could you excuse my audio?
+I would like to fix it again but I only have access to the course for a one hour, could you excuse my audio?
  
  link: https://youtu.be/UnzZhiFQrHM
 
