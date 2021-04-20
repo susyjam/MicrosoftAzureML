@@ -78,6 +78,7 @@ This involves configuring a compute cluster, type of machine learning task etc. 
   6. Logs are used to monitor and detect problems in applications. Running logs.py enables logging for the deployed model. In the screenshot below "Application Insights enabled" is True.
  ![4][1.4]
   7. Logs from the deployed model.
+ 
  ![5][1.5]
  
 ### Swagger
@@ -124,4 +125,5 @@ This project can be improved on by:
 
 ## Screen Recording
  ![Video][1.15]
+ link: https://youtu.be/UnzZhiFQrHM
 
