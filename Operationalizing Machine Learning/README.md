@@ -128,5 +128,7 @@ This project can be improved on by:
 
 ## Screen Recording
  ![Video][1.15]
+ Apparently my microphone failed, sorry for the inconvenience, so I tried to detail everything
+ 
  link: https://youtu.be/UnzZhiFQrHM
 
