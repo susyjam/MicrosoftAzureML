@@ -1,4 +1,5 @@
 """
+
 This script creates an HTTP server to expose the current working directory. It
 is meant to be an easy way to expose a local swagger.json file so that
 a swagger-ui service can pick it up from localhost.
