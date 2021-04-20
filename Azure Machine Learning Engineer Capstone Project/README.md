@@ -76,13 +76,7 @@ automl_config = AutoMLConfig(compute_target=training_cluster,
 ```
 
 ### Results
-#### What are the results you got with your automated ML model? What were the parameters of the model? How could you have improved it?
-The best model produced by the Auto ML run is VotingEnsemble with an accuracy metric of `0.8763`.
-
-The following would be done to improve the Auto ML run.
-
-1. Increase the number of cross validation to improve model accuracy.
-2. Experiment time out would not be specified so the Auto ML run can produce the best model at its own stipulated time.
+The best model produced by the Auto ML run is VotingEnsemble with an accuracy metric of 0.876
 
 #### The screen shot below shows the experiment RunDetails widget of the various models which were created during the automl run. The best model for the experiment VotingEnsemble can be seen at the top of the list.
 ![run_details1](images/run_details1.png)
@@ -90,61 +84,94 @@ The following would be done to improve the Auto ML run.
 
 # Hyperparameter Tuning
 
-Most of the algorithms used in the AutoML run of the experiment were Tree based algorithms. I chose Logistic Regression from Scikit-Learn library for this experiment because, it is an algorthm that works perfectly on binary classification tasks. It is easier to implement, interpret, and very efficient to train.
+The pipeline architecture is as follows:
 
-The parameter sampling I used in this experiment was Random Parameter sampling. Random Parameter sampling selects hyperparameter values randomly from a defined search space. The defined search space can be continuous or discrete values. In this experiment I optimized two most important hyperparameter values for logistic regression by defining two hyperparameters search space as it can be seen in the python code below.
+ * Data loaded from TabularDatasetFactory
+ * Dataset is further cleaned using a function called clean_data
+ * One Hot Encoding has been used for the categorical columns
+ * Dataset has been splitted into train and test sets
+ * Built a Logistic Regression model
+ * Hyperparameters has been tuned using Hyperdrive
+ * Selected the best model
+ * Saved the model
+ * 
+Benefits of the parameter sampler chosen The project used Random Sampling as it supports early termination of low-performance runs. In random sampling, hyperparameter values are randomly selected from the defined search space with two hyperparameters '--C' (Reqularization Strength) and '--max_iter' (Maximum iterations to converge). Random sampling search is also faster, allows more coverage of the search space and parameter values are chosen from a set of discrete values or a distribution over a continuous range.
+
+The benefits of the early stopping policy chosen The Bandit policy was chosen because it stops a run if the target performance metric underperforms the best run so far by a specified margin. It ensures that we don't keep running the experiment running for too long and end up wasting resources and time looking for the optimal parameter. It is based on slack criteria and a frequency and delay interval for evaluation. Any run that doesn't fall within the slack factor or slack amount of the evaluation metric with respect to the best performing run will be terminated.
 
 ```python
 param_sampling = RandomParameterSampling({
     '--C': uniform(0.001, 1.0),
     '--max_iter': choice(0, 10, 50, 100, 150, 200)
 })
+if "outputs" not in os.listdir():
+    os.mkdir("./outputs")
+
+train_script = "./outputs"
+
+shutil.copy('train.py', train_script)
+
+
+# Create estimator and hyperdrive config
+sklearn_env = Environment.get(workspace=ws, name='AzureML-Tutorial')
+
+src = ScriptRunConfig(
+    source_directory=train_script,
+    script='train.py',
+    compute_target=training_cluster,
+    environment=sklearn_env
+    )
+
+hyperdrive_run_config = HyperDriveConfig(
+    run_config=src,
+    hyperparameter_sampling=param_sampling,
+    policy=early_termination_policy,
+    primary_metric_name='Accuracy',
+    primary_metric_goal=PrimaryMetricGoal.MAXIMIZE,
+    max_total_runs=100,
+    max_concurrent_runs=3
+)
 ```
-
- `--C` with a **uniform range from (0.01, 1.0)** is the Inverse Regularization strength which helps to reduce overfitting. The smaller values causes stronger regularization.
-
- `--max_iter` with a choice of discrete values (0, 10, 50, 100, 150, 200), is the maximum number of iterations to converge. This convergence maximizes the model's accuracy.
-
-One most important configuration which also went into the Hyperdrive configuration settings was defining a **BanditPolicy** which terminates poor performing runs with an early termination policy. This improves computational efficiency. Below is the settings which was used:
 
 ```python
 early_termination_policy = BanditPolicy(evaluation_interval=3, slack_factor=0.1, delay_evaluation=3)
 ```
 
- `evaluation_interval` - the frequency of applying the policy. An evaluation interval of 3 will apply the policy each time the training script reports the primary metric.
-
- `slack_factor` - the slack allowed with respect to the best performing training run. Supposed the best performing run at interval 3 with a reported primary metric of 0.85 with a goal to maximize the primary metric. If the policy specifies a slack_factor of 0.1, any training runs whose best metric at interval 3 is less than 0.77 (0.85(1+`slack_factor`)) will be terminated.
-
- `delay_evaluation` - delays the first policy evaluation for a specified number of intervals.
+ 1. evaluation_interval: the frequency of applying the policy. An evaluation interval of 3 will apply the policy each time the training script reports the primary metric.
+ 2. slack_factor: the slack allowed with respect to the best performing training run. Supposed the best performing run at interval 3 with a reported primary metric of 0.85 with a goal to maximize the primary metric.
+ 3. delay_evaluation: delays the first policy evaluation for a specified number of intervals.
 
 ### Hyperdrive Results
 
-The best model from the Hyperdrive + Logistic Regression run produced an accuracy of `0.8133`.
+The best model from the Hyperdrive + Logistic Regression run produced an accuracy of 0.813
 
 ### Model Improvement
 
 To improve the model:
 
-- Grid sampling would be used in inplace of Random sampling and specify Early termination to infer knowledge from previous poorly performing runs. Grid sampling may provide a little bit of performance as it searches over all possible values.
-
-- Bayesian sampling would also be leverage as it uses trials from previous runs as a prior knowledge to pick new samples and to improve the primary metric.
-
-- Increasing the max_total_runs value can also provide quite significant performance.
+ * Bayesian sampling would also be leverage as it uses trials from previous runs as a prior knowledge to pick new samples and to improve the primary metric.
+ * Grid sampling may provide a little bit of performance as it searches over all possible values.
+ * Increasing the max_total_runs value can also provide quite significant performance.
 
 The screenshots below shows the RunDetails widget of the hyperdrive run and the best model trained with its parameters.
-
-![hyperdrive1](images/hyper_run_details1.png)
-![hyperdrive2](images/hyper_run_details2.png)
-![hyperdrive3](images/hyper_run_details3.png)
+![hp3](https://github.com/susyjam/MicrosoftAzureML/blob/master/Azure%20Machine%20Learning%20Engineer%20Capstone%20Project/images/3.png)
+![hp7](https://github.com/susyjam/MicrosoftAzureML/blob/master/Azure%20Machine%20Learning%20Engineer%20Capstone%20Project/images/7.png)
+![hp5](https://github.com/susyjam/MicrosoftAzureML/blob/master/Azure%20Machine%20Learning%20Engineer%20Capstone%20Project/images/4.png)
+![hp5](https://github.com/susyjam/MicrosoftAzureML/blob/master/Azure%20Machine%20Learning%20Engineer%20Capstone%20Project/images/5.png)
 
 # Model Deployment
 
-The best model VotingEnsemble which was an AutoML model was deployed in this project, since it produced the best `accuracy of 0.8763` as compared to the hyperdrive run with an `accuracy of 0.8133`. Below is how the model was deployed:
+The HyperDrive model resulted in an accuracy of 0.831 which was slightly lower than the AutoML accuracy.
+Below is how the model was deployed:
 
 1. The best model model.pkl file from the Auto ML run was first retrieved together with its conda environment script conda_env.yml and scoring script score.py.
-1. The model was then registered as a model in the Azure ML workspace.
-1. An inference configuration was created from the downloaded conda_env.yml and score.py to make sure that the software dependencies and resources needed for deployment is intact.
-1. The model was then deployed with the inference configuration as an Azure Container Instance (ACI) webservice.
+2. An inference configuration was created from the downloaded conda_env.yml and score.py to make sure that the software dependencies and resources needed for deployment is intact.
+3. The model was then deployed with the inference configuration as an Azure Container Instance (ACI) webservice.
+4. The model was then registered as a model in the Azure ML workspace.
+
+Compared to HyperDrive, AutoML architecture is quite superior, which enables to training 'n' number of models efficiently.
+
+The reason in accuracies might be due to the fact that that we used less number of iterations in AutoML run, which might give better results with more iterations. AutoML also provides a wide variety of models and preprocessing steps which are not carried out Hyperdrive. However, the difference was quite small.
 
 ### Model endpoint
 
