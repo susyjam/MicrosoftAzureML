@@ -1,7 +1,7 @@
 
 [1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/screen-shot-2020-09-15-at-12.36.11-pm.png
 [2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/architecture.png
-[1.1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/1.png
+[1.1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/111.png
 [1.2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/2.png
 [1.3]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/3.png
 [1.4]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/4.png
@@ -64,22 +64,22 @@ This was done automatically in the course Workspace. When working on your own Az
 In this step an AutoML run was configured and several models were trained on the Bank Marketing Dataset(https://archive.ics.uci.edu/ml/datasets/Bank+Marketing). 
 This involves configuring a compute cluster, type of machine learning task etc. From our run, the best performing model is voting ensemble as shown below.
 
-  1. Bank marketing dataset is aquired from the url and registered as a Tabular dataset. 
+ #### 1. Bank marketing dataset is aquired from the url and registered as a Tabular dataset. 
  ![1][1.1]
-  2. A compute cluster with a maximum of 6 nodes called 'bm-compute' is created
+ #### 2. A compute cluster with a maximum of 6 nodes called 'bm-compute' is created
 
 ### Automated ML Experiment: 
 
-  4. An AutoML experiment under the name 'bm-exp1' is performed with Bank marketing dataset. The primary metric which will be optimized in the experiment is Accuracy.
+####  4. An AutoML experiment under the name 'bm-exp1' is performed with Bank marketing dataset. The primary metric which will be optimized in the experiment is Accuracy.
  ![2][1.2]
-  5. The best model is Voting Ensemble with an accuarcy around 92%. This model is deployed as 'bm-best-model' using Azure Container Instance(ACI).
+####  5. The best model is Voting Ensemble with an accuarcy around 92%. This model is deployed as 'bm-best-model' using Azure Container Instance(ACI).
  ![3][1.3]
  
 ### Enabling Application Insights/Logging
 
-  6. Logs are used to monitor and detect problems in applications. Running logs.py enables logging for the deployed model. In the screenshot below "Application Insights enabled" is True.
+####  6. Logs are used to monitor and detect problems in applications. Running logs.py enables logging for the deployed model. In the screenshot below "Application Insights enabled" is True.
  ![4][1.4]
-  7. Logs from the deployed model.
+####  7. Logs from the deployed model.
  
  ![5][1.5]
  
@@ -88,16 +88,16 @@ This involves configuring a compute cluster, type of machine learning task etc. 
  Swagger Documentation: Swagger is a tool for building, and documenting REST APIs. It can be used to share documentation among product managers, testers, and developers and can also be used by various tools to automate API-related processes.
 Azure provides a swagger.json URL that can be used to create a web site that documents the HTTP endpoint for a deployed model. Here we consumed our deployed model using swagger and displayed the contents of the API for the model as shown below
  
-  8. Swagger Output
+####  8. Swagger Output
  ![6][1.6]
  
 ### Consuming Model Endpoint
  
-  9. endpoint.py contains two sets of inputs in the form of JSON. This input will be fed to the deployed model at the scoring uri using the api and the result will also be obtained in the form of JSON.
+####  9. endpoint.py contains two sets of inputs in the form of JSON. This input will be fed to the deployed model at the scoring uri using the api and the result will also be obtained in the form of JSON.
   ![7][1.7]
 
 ### Pipeline
-  10. This pipeline automates the AutoML process and saves a lot of time. Publishing this pipeline creates a REST Endpoint which can be triggered via a HTTP request.
+####  10. This pipeline automates the AutoML process and saves a lot of time. Publishing this pipeline creates a REST Endpoint which can be triggered via a HTTP request.
     * Previously created compute cluster is attached to the same experiment 'bm-exp1' in workspace.
     * Bank marketing dataset is loaded in a Tabular Dataset.
     * AutoML run is configured using an AutoMLConfig object and outputs are defined using TrainingOutput. An AutoML step is created.
