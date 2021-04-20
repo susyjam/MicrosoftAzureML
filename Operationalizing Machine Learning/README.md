@@ -7,6 +7,7 @@
 [1.4]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/4.png
 [1.5]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/5.png
 [1.6]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/6.png
+[1.7]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/7.png
 [1.8]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/8.png
 [1.9]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/9.png
 [1.10]: https://github.com/susyjam/MicrosoftAzureML/blob/master/Operationalizing%20Machine%20Learning/images/10.png 
@@ -92,6 +93,7 @@ Azure provides a swagger.json URL that can be used to create a web site that doc
 ### Consuming Model Endpoint
  
   9. endpoint.py contains two sets of inputs in the form of JSON. This input will be fed to the deployed model at the scoring uri using the api and the result will also be obtained in the form of JSON.
+  ![7][1.7]
 
 ### Pipeline
   10. This pipeline automates the AutoML process and saves a lot of time. Publishing this pipeline creates a REST Endpoint which can be triggered via a HTTP request.
