@@ -52,13 +52,13 @@ Target variable:
 
 ### Task
 
-In this project I seek to predict the mortality (death event) caused by Heart failure using serveral supervised machine learning techniques to predict the binary class for the target/label `DEATH_EVENT`. The dataset contains individual clinical information of patients as described in the data attributes above. All the features in the dataset would be used in this project.
+In this project I seek to predict the mortality (death event) caused by Heart failure using serveral supervised machine learning techniques to predict the binary class for the target/label DEATH_EVENT. The dataset contains individual clinical information of patients as described in the data attributes above. All the features in the dataset would be used in this project.
 
 ### Access
 
-  1.  For Logistic Regression + Hyperdrive run, the dataset is accessed directly from the URL in the `train.py` script using `TabularDataFactory.from_delimited_files()`
+  1.  For Logistic Regression + Hyperdrive run, the dataset is accessed directly from the URL in the train.py script using TabularDataFactory.from_delimited_files()
 
-  2. For Azure Auto ML run, the dataset is read using `Dataset.Tabular.from_delimeted_files()` from the **UCI** repository URL and registered as an Azure tabular dataset in the workspace. The registered tabular dataset is then accessed by the Azure Auto ML configuration settings for the run.
+  2. For Azure Auto ML run, the dataset is read using Dataset.Tabular.from_delimeted_files() from the **UCI** repository URL and registered as an Azure tabular dataset in the workspace. The registered tabular dataset is then accessed by the Azure Auto ML configuration settings for the run.
 
 
 # Automated ML
@@ -106,7 +106,7 @@ automl_config = AutoMLConfig(compute_target=training_cluster,
 
 ### Results
 #### What are the results you got with your automated ML model? What were the parameters of the model? How could you have improved it?
-The best model produced by the Auto ML run is VotingEnsemble with an accuracy metric of `0.8763`. Details parameters of the model can be found in `In [13]` of the automl.ipynb notebook.
+The best model produced by the Auto ML run is VotingEnsemble with an accuracy metric of `0.8763`.
 
 The following would be done to improve the Auto ML run.
 
