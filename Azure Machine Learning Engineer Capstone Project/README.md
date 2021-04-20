@@ -79,7 +79,7 @@ automl_config = AutoMLConfig(compute_target=training_cluster,
 The best model produced by the Auto ML run is VotingEnsemble with an accuracy metric of 0.876
 
 #### The screen shot below shows the experiment RunDetails widget of the various models which were created during the automl run. The best model for the experiment VotingEnsemble can be seen at the top of the list.
-![run_details1](images/run_details1.png)
+![run_details1](https://github.com/susyjam/MicrosoftAzureML/blob/master/Azure%20Machine%20Learning%20Engineer%20Capstone%20Project/images/9.png)
 ![run_details2](images/run_details2.png)
 
 # Hyperparameter Tuning
@@ -94,7 +94,7 @@ The pipeline architecture is as follows:
  * Hyperparameters has been tuned using Hyperdrive
  * Selected the best model
  * Saved the model
- * 
+
 Benefits of the parameter sampler chosen The project used Random Sampling as it supports early termination of low-performance runs. In random sampling, hyperparameter values are randomly selected from the defined search space with two hyperparameters '--C' (Reqularization Strength) and '--max_iter' (Maximum iterations to converge). Random sampling search is also faster, allows more coverage of the search space and parameter values are chosen from a set of discrete values or a distribution over a continuous range.
 
 The benefits of the early stopping policy chosen The Bandit policy was chosen because it stops a run if the target performance metric underperforms the best run so far by a specified margin. It ensures that we don't keep running the experiment running for too long and end up wasting resources and time looking for the optimal parameter. It is based on slack criteria and a frequency and delay interval for evaluation. Any run that doesn't fall within the slack factor or slack amount of the evaluation metric with respect to the best performing run will be terminated.
@@ -156,6 +156,9 @@ To improve the model:
 The screenshots below shows the RunDetails widget of the hyperdrive run and the best model trained with its parameters.
 ![hp3](https://github.com/susyjam/MicrosoftAzureML/blob/master/Azure%20Machine%20Learning%20Engineer%20Capstone%20Project/images/3.png)
 ![hp7](https://github.com/susyjam/MicrosoftAzureML/blob/master/Azure%20Machine%20Learning%20Engineer%20Capstone%20Project/images/7.png)
+
+#### The best Model
+
 ![hp5](https://github.com/susyjam/MicrosoftAzureML/blob/master/Azure%20Machine%20Learning%20Engineer%20Capstone%20Project/images/4.png)
 ![hp5](https://github.com/susyjam/MicrosoftAzureML/blob/master/Azure%20Machine%20Learning%20Engineer%20Capstone%20Project/images/5.png)
 
@@ -172,6 +175,21 @@ Below is how the model was deployed:
 Compared to HyperDrive, AutoML architecture is quite superior, which enables to training 'n' number of models efficiently.
 
 The reason in accuracies might be due to the fact that that we used less number of iterations in AutoML run, which might give better results with more iterations. AutoML also provides a wide variety of models and preprocessing steps which are not carried out Hyperdrive. However, the difference was quite small.
+
+The AutoML model was then deployed as follows:
+ * Get the best model from the training run
+ * Register the model
+ * Download the score python file from azure ml 
+ * Create an inference configuration
+ * Create an ACI deployment configuration
+ * Deploy the model
+ * Enable Application Insights
+
+To consume the model
+ * We copy the rest endpoint
+ * Create a sample JSON payload and post the payload to the endpoint using a HTTP Post
+ * Running endpoint
+
 
 ### Model endpoint
 
