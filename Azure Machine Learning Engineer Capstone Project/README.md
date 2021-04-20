@@ -191,7 +191,7 @@ The screenshot below shows the healthy status of the deployed model endpoint whi
 
 The link below provides access to the video demonstration of a working deployed model.
 
-Apparently my microphone failed, sorry for the inconvenience, so I tried to detail everything. I would like to fix it again but I only have access to the course for a one of hours, could you excuse my audio?
+Apparently my microphone failed, sorry for the inconvenience, so I tried to detail everything. I would like to fix it again but I only have access to the course for a one hour, could you excuse my audio?
 
 [![Video](https://github.com/susyjam/MicrosoftAzureML/blob/master/Azure%20Machine%20Learning%20Engineer%20Capstone%20Project/video/Capstone%20-%20Azure%20Machine%20Learning%20Engineer.mp4)](https://www.youtube.com/watch?v=jlYA27ieUg0)
 
