@@ -23,7 +23,8 @@
 
 ## Project Overview
 
-In this project, you will continue to work with the Bank Marketing dataset. You will use Azure to configure a cloud-based machine learning production model, deploy it, and consume it. You will also create, publish, and consume a pipeline.
+In this project, I will continue to work with the Bank Marketing dataset. I will use Azure to configure a cloud-based machine learning production model, deploy it, and consume it. You will also create, publish, and consume a pipeline.
+A pipeline was also created and published, which enabled the exernal or enternal services to interact with it via HTTP API and trian the model.
 
 The dataset named 'Bank marketing dataset' contains data about a Telemarketing strategy implemented by a bank. The aim is to predict if a client would subscribe to a term deposit.
 
@@ -101,17 +102,17 @@ Azure provides a swagger.json URL that can be used to create a web site that doc
     * Bank marketing dataset is loaded in a Tabular Dataset.
     * AutoML run is configured using an AutoMLConfig object and outputs are defined using TrainingOutput. An AutoML step is created.
     * A pipeline object is created with AutoML step and submitted.
-  12. Pipeline Run
+ #### 12. Pipeline Run
  ![8][1.8]
-  14. Published Pipeline endpoint
+#### 14. Published Pipeline endpoint
  ![9][1.9]
-  15. AutoML
+ #### 15. AutoML
  ![10][1.10]
-  16. Pipeline Overview
+ ####  16. Pipeline Overview
  ![11][1.11]
-  17. Run Details
+ ####  17. Run Details
  ![12][1.12]
-  18. Run using Pipeline Endpoint
+ ####  18. Run using Pipeline Endpoint
  ![13][1.13]
 
 
